@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "Footer.module.scss",
+        "../../tools/mixins/mixins.scss",
+        "../../tools/themes/themes.scss",
+        "../../tools/variables/variable.scss"
+    ],
+    "names": [],
+    "file": "Footer.module.css"
+}
